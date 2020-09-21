@@ -1,0 +1,18 @@
+.searchpage__header
+{
+    display: flex;
+    position: sticky;
+    top: 0;
+    border: 2px solid red;
+    background-color: white;
+    z-index: 100;
+    align-items: flex-start;
+    border-bottom: 1px solid lightgrey;
+    height: auto;
+}
+img{
+    border: 2px solid black;
+}
+.inputF{
+    border: 2px solid black;
+}
